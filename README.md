@@ -1,3 +1,7 @@
+[![](https://img.shields.io/github/issues/justjavac/back-to-backspace-for-back.svg)](https://github.com/justjavac/back-to-backspace-for-back/issues) [![](https://img.shields.io/github/release/justjavac/back-to-backspace-for-back.svg)](https://github.com/justjavac/back-to-backspace-for-back/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/justjavac/back-to-backspace-for-back/total.svg)]()
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lefdnijpgdhfcndigmkggjdloagnahnk.svg)](https://chrome.google.com/webstore/detail/lefdnijpgdhfcndigmkggjdloagnahnk)
+
 ### 安装
 
 - [Chrome Web Store](https://chrome.google.com/webstore/detail/%E9%80%9A%E8%BF%87%E9%80%80%E6%A0%BC%E9%94%AE%E8%BF%94%E5%9B%9E%E4%B8%8A%E4%B8%80%E9%A1%B5/lefdnijpgdhfcndigmkggjdloagnahnk)
