@@ -1,6 +1,6 @@
 {
-  "name": "通过退格键返回上一页",
-  "version": "3.0",
+  "name": "Back To Backspace For Back",
+  "version": "4.0",
   "manifest_version": 2,
   "description": "通过退格键（Backspace）返回到之前浏览的页面。",
   "homepage_url": "https://github.com/justjavac/back-to-backspace-for-back",
