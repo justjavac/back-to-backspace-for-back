@@ -3,13 +3,13 @@ Back To Backspace For Back
 
 ### 安装
 
-![Chrome Web Store Rating](https://img.shields.io/badge/chrome%20web%20store%20rating-4.9-blue.svg)
+- ![Chrome Web Store Rating](https://img.shields.io/badge/chrome%20web%20store%20rating-4.9-blue.svg)
 
-[Chrome Web Store](https://chrome.google.com/webstore/detail/lefdnijpgdhfcndigmkggjdloagnahnk)
+- [Chrome Web Store](https://chrome.google.com/webstore/detail/lefdnijpgdhfcndigmkggjdloagnahnk)
 
 ### 下载源码
 
-[![](https://img.shields.io/badge/downloads-3k/month-blue.svg)](https://github.com/justjavac/back-to-backspace-for-back/releases)
+- [![](https://img.shields.io/badge/downloads-3k/month-blue.svg)](https://github.com/justjavac/back-to-backspace-for-back/releases)
 
 ### 缘起
 
