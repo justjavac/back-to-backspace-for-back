@@ -1,7 +1,6 @@
 Back To Backspace For Back
 ================
 
-[![](https://img.shields.io/github/release/justjavac/back-to-backspace-for-back.svg)](https://github.com/justjavac/back-to-backspace-for-back/releases)
 [![](https://img.shields.io/badge/downloads-3k/month-blue.svg)](https://github.com/justjavac/back-to-backspace-for-back/releases)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lefdnijpgdhfcndigmkggjdloagnahnk.svg)](https://chrome.google.com/webstore/detail/lefdnijpgdhfcndigmkggjdloagnahnk)
 
