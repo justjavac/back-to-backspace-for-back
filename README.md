@@ -2,11 +2,10 @@ Back To Backspace For Back
 ================
 
 [![](https://img.shields.io/badge/downloads-3k/month-blue.svg)](https://github.com/justjavac/back-to-backspace-for-back/releases)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/lefdnijpgdhfcndigmkggjdloagnahnk.svg)](https://chrome.google.com/webstore/detail/lefdnijpgdhfcndigmkggjdloagnahnk)
 
 ### 安装
 
-- [Chrome Web Store](https://chrome.google.com/webstore/detail/%E9%80%9A%E8%BF%87%E9%80%80%E6%A0%BC%E9%94%AE%E8%BF%94%E5%9B%9E%E4%B8%8A%E4%B8%80%E9%A1%B5/lefdnijpgdhfcndigmkggjdloagnahnk)
+- [Chrome Web Store ![Chrome Web Store](https://img.shields.io/badge/rating-4.9-blue.svg)](https://chrome.google.com/webstore/detail/lefdnijpgdhfcndigmkggjdloagnahnk)
 
 ### 缘起
 
