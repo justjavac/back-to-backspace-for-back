@@ -39,7 +39,7 @@ Google 声称，Chrome 浏览器只有少部分用户在使用退格键。
 
 ### 作者
 
- - [justjavac](https://github.com/justjavac)
+ - [![justjavac](https://img.shields.io/badge/author-justjavac-blue.svg)](https://github.com/justjavac)
 
 ### 版权
 
